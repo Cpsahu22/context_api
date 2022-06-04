@@ -1,0 +1,29 @@
+- Controllled and Uncontrolled state?
+
+- composition vs Inheritance?
+
+
+
+
+
+<amazon>
+     <navbar>
+        <Logo/>
+        <address/>
+        <search/>
+        <Country/>
+        <Cart/>
+    </navbar>
+    <Header/>
+    <Subheader/>
+    <Products>
+        <ProductsFilte>
+        <Product /> //List
+        <Product key=2>
+            <button> Add to cart</button>
+        </Product/>
+    </Products>
+</amazon>
+
+// redux // not by facebook
+// context api was invented in 2018 facebook
